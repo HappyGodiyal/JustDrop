@@ -1,5 +1,4 @@
-# DealDrop - Smart Product Price Tracker
-### Watch here - https://youtu.be/HakXg-hFZ_c
+# JustDrop - Smart Product Price Tracker
 
 Track product prices across e-commerce sites and get alerts on price drops. Built with Next.js, Firecrawl, and Supabase.
 
@@ -321,7 +320,7 @@ No need to maintain brittle, site-specific scrapers!
 ## 📁 Project Structure
 
 ```
-dealdrop/
+justdrop/
 ├── app/
 │   ├── page.js                         # Landing page with product input
 │   ├── actions.js                      # Server actions for DB operations
@@ -451,7 +450,3 @@ Contributions are welcome! Please follow these steps:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Built with ❤️ by RoadsideCoder using Next.js, Firecrawl, and Supabase
