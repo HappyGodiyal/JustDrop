@@ -25,7 +25,6 @@ export async function POST(request) {
     if (productsError) throw productsError;
 
     console.log(`Found ${products.length} products to check`);
-
     const results = {
       total: products.length,
       updated: 0,
